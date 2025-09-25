@@ -53,6 +53,16 @@ int main() {
         }
     }
 */
+//problem7
+    /*
+    int number;
+    cin >> number;
+    int counter = 0;
+    for (int i = 2; i < number; i++) {
+        if (!number % i) counter++;
+    }
+    cout << ((counter >= 1) ? "Not prime" : "Prime");
+    */
 
 
 
